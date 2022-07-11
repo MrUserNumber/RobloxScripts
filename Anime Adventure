@@ -35,10 +35,10 @@ local Cred = X.New({
     Title = "Credits"
 })
     Cred.Button({
-    Text = "Copy Discord",
+    Text = "Discord Has Not Been Finished",
     Callback = function()
-        setclipboard("https://discord.gg/sAFQsuFt")
-        toclipboard("https://discord.gg/sAFQsuFt")
+        setclipboard("Discord is not finished")
+        toclipboard("Discord is not finished")
     end,
 })
 
