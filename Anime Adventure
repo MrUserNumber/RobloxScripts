@@ -8,13 +8,13 @@ local X = Material.Load({
     Theme = "Light",
     ColorOverrides = {
         MainFrame = Color3.fromRGB(0,0,0),
-        Toggle = Color3.fromRGB(0,0,200),
+        Toggle = Color3.fromRGB(0,0,255),
         ToggleAccent = Color3.fromRGB(255,255,255), 
-        Dropdown = Color3.fromRGB(0,0,200),
+        Dropdown = Color3.fromRGB(0,0,255),
 		DropdownAccent = Color3.fromRGB(255,255,255),
-        Slider = Color3.fromRGB(0,0,200),
+        Slider = Color3.fromRGB(0,0,255),
 		SliderAccent = Color3.fromRGB(255,255,255),
-        NavBarAccent = Color3.fromRGB(0,0,0),
+        NavBarAccent = Color3.fromRGB(0,0,255),
         Content = Color3.fromRGB(0,0,0),
     }
 })
